@@ -1,0 +1,5 @@
+C:\Users\geremias.bezerra\source\repos\BlazorApp Microsoft Tutorial\obj\Debug\net6.0\BlazorApp Microsoft Tutorial.csproj.AssemblyReference.cache
+C:\Users\geremias.bezerra\source\repos\BlazorApp Microsoft Tutorial\obj\Debug\net6.0\BlazorApp Microsoft Tutorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\geremias.bezerra\source\repos\BlazorApp Microsoft Tutorial\obj\Debug\net6.0\BlazorApp Microsoft Tutorial.AssemblyInfoInputs.cache
+C:\Users\geremias.bezerra\source\repos\BlazorApp Microsoft Tutorial\obj\Debug\net6.0\BlazorApp Microsoft Tutorial.AssemblyInfo.cs
+C:\Users\geremias.bezerra\source\repos\BlazorApp Microsoft Tutorial\obj\Debug\net6.0\BlazorApp Microsoft Tutorial.csproj.CoreCompileInputs.cache

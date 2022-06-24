@@ -1,0 +1,27 @@
+C:\Users\geremias.bezerra\source\repos\BlazorApp Microsoft Tutorial\BlazorApp Microsoft Tutorial\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\geremias.bezerra\source\repos\BlazorApp Microsoft Tutorial\BlazorApp Microsoft Tutorial\bin\Debug\net6.0\appsettings.json
+C:\Users\geremias.bezerra\source\repos\BlazorApp Microsoft Tutorial\BlazorApp Microsoft Tutorial\bin\Debug\net6.0\BlazorApp Microsoft Tutorial.staticwebassets.runtime.json
+C:\Users\geremias.bezerra\source\repos\BlazorApp Microsoft Tutorial\BlazorApp Microsoft Tutorial\bin\Debug\net6.0\BlazorApp Microsoft Tutorial.exe
+C:\Users\geremias.bezerra\source\repos\BlazorApp Microsoft Tutorial\BlazorApp Microsoft Tutorial\bin\Debug\net6.0\BlazorApp Microsoft Tutorial.deps.json
+C:\Users\geremias.bezerra\source\repos\BlazorApp Microsoft Tutorial\BlazorApp Microsoft Tutorial\bin\Debug\net6.0\BlazorApp Microsoft Tutorial.runtimeconfig.json
+C:\Users\geremias.bezerra\source\repos\BlazorApp Microsoft Tutorial\BlazorApp Microsoft Tutorial\bin\Debug\net6.0\BlazorApp Microsoft Tutorial.dll
+C:\Users\geremias.bezerra\source\repos\BlazorApp Microsoft Tutorial\BlazorApp Microsoft Tutorial\bin\Debug\net6.0\ref\BlazorApp Microsoft Tutorial.dll
+C:\Users\geremias.bezerra\source\repos\BlazorApp Microsoft Tutorial\BlazorApp Microsoft Tutorial\bin\Debug\net6.0\BlazorApp Microsoft Tutorial.pdb
+C:\Users\geremias.bezerra\source\repos\BlazorApp Microsoft Tutorial\BlazorApp Microsoft Tutorial\obj\Debug\net6.0\BlazorApp Microsoft Tutorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\geremias.bezerra\source\repos\BlazorApp Microsoft Tutorial\BlazorApp Microsoft Tutorial\obj\Debug\net6.0\BlazorApp Microsoft Tutorial.AssemblyInfoInputs.cache
+C:\Users\geremias.bezerra\source\repos\BlazorApp Microsoft Tutorial\BlazorApp Microsoft Tutorial\obj\Debug\net6.0\BlazorApp Microsoft Tutorial.AssemblyInfo.cs
+C:\Users\geremias.bezerra\source\repos\BlazorApp Microsoft Tutorial\BlazorApp Microsoft Tutorial\obj\Debug\net6.0\BlazorApp Microsoft Tutorial.csproj.CoreCompileInputs.cache
+C:\Users\geremias.bezerra\source\repos\BlazorApp Microsoft Tutorial\BlazorApp Microsoft Tutorial\obj\Debug\net6.0\BlazorApp Microsoft Tutorial.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\geremias.bezerra\source\repos\BlazorApp Microsoft Tutorial\BlazorApp Microsoft Tutorial\obj\Debug\net6.0\BlazorApp Microsoft Tutorial.RazorAssemblyInfo.cache
+C:\Users\geremias.bezerra\source\repos\BlazorApp Microsoft Tutorial\BlazorApp Microsoft Tutorial\obj\Debug\net6.0\BlazorApp Microsoft Tutorial.RazorAssemblyInfo.cs
+C:\Users\geremias.bezerra\source\repos\BlazorApp Microsoft Tutorial\BlazorApp Microsoft Tutorial\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\geremias.bezerra\source\repos\BlazorApp Microsoft Tutorial\BlazorApp Microsoft Tutorial\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\geremias.bezerra\source\repos\BlazorApp Microsoft Tutorial\BlazorApp Microsoft Tutorial\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\geremias.bezerra\source\repos\BlazorApp Microsoft Tutorial\BlazorApp Microsoft Tutorial\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\geremias.bezerra\source\repos\BlazorApp Microsoft Tutorial\BlazorApp Microsoft Tutorial\obj\Debug\net6.0\scopedcss\bundle\BlazorApp Microsoft Tutorial.styles.css
+C:\Users\geremias.bezerra\source\repos\BlazorApp Microsoft Tutorial\BlazorApp Microsoft Tutorial\obj\Debug\net6.0\scopedcss\projectbundle\BlazorApp Microsoft Tutorial.bundle.scp.css
+C:\Users\geremias.bezerra\source\repos\BlazorApp Microsoft Tutorial\BlazorApp Microsoft Tutorial\obj\Debug\net6.0\BlazorApp Microsoft Tutorial.dll
+C:\Users\geremias.bezerra\source\repos\BlazorApp Microsoft Tutorial\BlazorApp Microsoft Tutorial\obj\Debug\net6.0\ref\BlazorApp Microsoft Tutorial.dll
+C:\Users\geremias.bezerra\source\repos\BlazorApp Microsoft Tutorial\BlazorApp Microsoft Tutorial\obj\Debug\net6.0\BlazorApp Microsoft Tutorial.pdb
+C:\Users\geremias.bezerra\source\repos\BlazorApp Microsoft Tutorial\BlazorApp Microsoft Tutorial\obj\Debug\net6.0\BlazorApp Microsoft Tutorial.genruntimeconfig.cache
+C:\Users\geremias.bezerra\source\repos\BlazorApp Microsoft Tutorial\BlazorApp Microsoft Tutorial\obj\Debug\net6.0\BlazorApp Microsoft Tutorial.csproj.AssemblyReference.cache
